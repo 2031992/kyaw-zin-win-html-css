@@ -1,0 +1,57 @@
+img{
+    border-radius: 40px;
+    max-width: 20%;
+    
+}
+.button{
+    border: none;
+    padding: 10px 15px;
+    background-color: rgb(10, 1, 19);
+    color: whitesmoke;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+.button-pp{
+    color: purple;
+    
+}
+nav{
+  flex-grow: 2;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 1;
+}
+#top-section{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+
+}
+#top-section-footer{
+    font-size: small;
+    font-style: italic;
+    color: rgb(250, 9, 9);
+}
+.main-content{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    text-align: center;
+
+
+}
+.main-content ul{
+    list-style-type: none;
+}
+#Reviews{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+}
+.center{
+    font-size: xx-large;
+    text-align: center;
+}
